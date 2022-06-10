@@ -1,6 +1,5 @@
 {
-  "name": "GitPackages",
-  "lockfileVersion": 2,
-  "requires": true,
-  "packages": {}
+  "publishConfig": {
+   "@YOUR-USERNAME:registry": "https://npm.pkg.github.com"
+ }
 }

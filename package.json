@@ -1,5 +1,22 @@
 {
   "publishConfig": {
-   "@YOUR-USERNAME:registry": "https://npm.pkg.github.com"
- }
+    "@asian-mobile-inc:registry": "https://npm.pkg.github.com"
+  },
+  "name": "@asian-mobile-inc/gitpackages",
+  "description": "release",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Asian-Mobile-Inc/GitPackages.git"
+  },
+  "author": "@trungnnq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Asian-Mobile-Inc/GitPackages/issues"
+  },
+  "homepage": "https://github.com/Asian-Mobile-Inc/GitPackages#readme"
 }
